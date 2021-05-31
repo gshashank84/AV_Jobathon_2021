@@ -10,6 +10,7 @@
 
 - The Notebook file is `Main.ipynb`.
 - The Prediction file is `Predictions.csv`.
+- The EDA is performed in `EDA.ipynb`.
 - - - - -
 ![Data image](data_dictionary.png)
 
